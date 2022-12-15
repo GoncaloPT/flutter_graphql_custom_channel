@@ -24,3 +24,6 @@ flutter: base64Event: FormatException: Invalid character (at character 1)
 flutter: obj: [129, 154, 77, 223, 32, 209]
 flutter: obj: Mß Ñ
 ```
+
+## Incident info
+https://github.com/zino-hofmann/graphql-flutter/issues/1271
